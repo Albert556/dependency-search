@@ -6,6 +6,7 @@
   "engines": {
     "vscode": "^1.74.0"
   },
+  "publisher": "Albert556",
   "repository": {
     "url": "https://github.com/Albert556/dependency-search"
   },
